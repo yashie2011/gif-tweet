@@ -12,10 +12,10 @@ import argparse
 from tweepy.streaming import StreamListener
 from random import randint
 
-consumer_key = 'oschi9olfj4EqJordQhLYkNGs'
-consumer_secret = 'Cs8DaQUMLLH79J6szXsHAH3ueXgIS5QJrOqM7p2UYroWlBdtTC'
-access_token = '967502485840568321-YTgmhJWKDWYCFEfcKCPU5EuBp6cpIVO'
-access_secret = 'ldZaiZd45wJVJqBIUVIAGZfkKecmR4bDDkf5toxCaUQbt'
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_secret = 
 
 def ConfigSectionMap(section):
     Config = ConfigParser.ConfigParser()
