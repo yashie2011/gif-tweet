@@ -3,14 +3,14 @@
 Requirements:
 
 python-2.7
-
 tweepy
-
 giphy-python
 
 How to Run:
 
-./twitter_feeder.py to run the script
+fill 'twitter customer_key', 'costumer_security', 'access_token', 'access_token_security' fields in twitter_feeder.py
+
+execute ./twitter_feeder.py <options> to run the script
 
 What it does?
 
